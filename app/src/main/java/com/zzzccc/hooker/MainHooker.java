@@ -60,7 +60,7 @@ public class MainHooker implements IXposedHookLoadPackage {
                     XposedBridge.log("App Name: " + appName + ", Package Name: " + packageName);
                 }
                 //获取版本号
-                XposedBridge.log("The VERSION is : "+Build.VERSION.SDK_INT);
+                XposedBridge.log("The VERSION: "+Build.VERSION.SDK_INT);
 
 //                //获取imei与meid即序列号 需要插卡
 //                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q){
@@ -103,17 +103,17 @@ public class MainHooker implements IXposedHookLoadPackage {
                 if (ssid != null) {
                     // 注意SSID被双引号包围，如果需要可以去掉
                     ssid = ssid.substring(1, ssid.length() - 1);
-                    XposedBridge.log("ssid is : "+ssid);
+                    XposedBridge.log("ssid: "+ssid);
                 }
                 String bssid = wifiInfo.getBSSID();
                 if (bssid != null){
-                    XposedBridge.log("bssid is : "+bssid);
+                    XposedBridge.log("bssid: "+bssid);
                 }
                 try{
                     TelephonyManager telephonyManager = (TelephonyManager) context.getSystemService(Context.TELEPHONY_SERVICE);
                     String iccid = telephonyManager.getSimSerialNumber();
                     if(iccid!=null){
-                        XposedBridge.log("iccid is : "+iccid);
+                        XposedBridge.log("iccid: "+iccid);
                     }
                 }catch (SecurityException e){
                     e.printStackTrace();

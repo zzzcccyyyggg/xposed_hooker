@@ -1,0 +1,340 @@
+ssid: Kwai-Lab
+bssid: d0:4d:c6:b7:19:f1
+SIM card: not exit
+serialNumber: cant get
+Original Android ID: 315b4c05f00c147f
+MAC Address: 62:84:03:6E:36:2E
+Loading legacy module com.zzzccc.hooker from /data/app/com.zzzccc.hooker-jAvxD9qyXgX9X3XwR3VQIw==/base.apk
+App Name: 屏幕录制, Package Name: com.miui.screenrecorder
+App Name: ATX, Package Name: com.github.uiautomator
+App Name: com.android.cts.priv.ctsshim, Package Name: com.android.cts.priv.ctsshim
+App Name: Qualcomm Mobile Security, Package Name: com.qualcomm.qti.qms.service.telemetry
+The packagename is com.miui.contentcatcher
+  Loading class com.zzzccc.hooker.MainHooker
+App Name: 传送门, Package Name: com.miui.contentextension
+App Name: QColor, Package Name: com.qualcomm.qti.qcolor
+App Name: 边角刘海屏, Package Name: com.android.internal.display.cutout.emulation.corner
+App Name: 双刘海屏, Package Name: com.android.internal.display.cutout.emulation.double
+App Name: 电话和短信存储, Package Name: com.android.providers.telephony
+App Name: Dynamic System Updates, Package Name: com.android.dynsystem
+App Name: 电量和性能, Package Name: com.miui.powerkeeper
+App Name: GFManager, Package Name: com.goodix.fingerprint
+App Name: 投屏服务, Package Name: com.xiaomi.miplay_client
+App Name: 银联可信服务安全组件小米版本, Package Name: com.unionpay.tsmservice.mi
+App Name: 蜻蜓FM, Package Name: com.miui.fm
+App Name: Cit_QR, Package Name: com.miui.qr
+App Name: 日历存储, Package Name: com.android.providers.calendar
+App Name: 应用程序扩展服务, Package Name: com.miui.contentcatcher
+The packagename is com.miui.catcherpatch
+App Name: 小米社区, Package Name: com.xiaomi.vipaccount
+App Name: 媒体存储设备, Package Name: com.android.providers.media
+App Name: 投屏, Package Name: com.milink.service
+App Name: RegService, Package Name: com.miui.dmregservice
+App Name: com.qti.service.colorservice, Package Name: com.qti.service.colorservice
+App Name: Square, Package Name: com.android.theme.icon.square
+App Name: Gestural Navigation Bar, Package Name: com.android.internal.systemui.navbar.gestural_wide_back
+App Name: 耗电检测, Package Name: com.xiaomi.powerchecker
+App Name: SystemHelper, Package Name: com.mobiletools.systemhelper
+App Name: SIM卡联系人, Package Name: com.qualcomm.qti.simcontacts
+App Name: 小米账号, Package Name: com.xiaomi.account
+App Name: com.android.wallpapercropper, Package Name: com.android.wallpapercropper
+App Name: CatchLog, Package Name: com.bsp.catchlog
+App Name: 相机标定, Package Name: com.xiaomi.cameratools
+App Name: Cinnamon, Package Name: com.android.theme.color.cinnamon
+App Name: miui.systemui.plugin, Package Name: miui.systemui.plugin
+App Name: 小米互联通信服务, Package Name: com.xiaomi.mi_connect_service
+App Name: com.qualcomm.qti.autoregistration, Package Name: com.qualcomm.qti.autoregistration
+App Name: com.xiaomi.micloudsdk.SdkApplication, Package Name: com.xiaomi.micloud.sdk
+App Name: Rounded, Package Name: com.android.theme.icon_pack.rounded.systemui
+App Name: Adreno Graphics Drivers, Package Name: com.qualcomm.qti.gpudrivers.sm7250.api29
+App Name: 应用包管理组件, Package Name: com.miui.packageinstaller
+App Name: 系统更新, Package Name: com.android.updater
+App Name: 外部存储设备, Package Name: com.android.externalstorage
+App Name: com.qualcomm.uimremoteclient, Package Name: com.qualcomm.uimremoteclient
+App Name: 游戏服务, Package Name: com.xiaomi.gamecenter.sdk.service
+App Name: HTML 查看器, Package Name: com.android.htmlviewer
+App Name: Bokeh, Package Name: com.miui.extraphoto
+App Name: 系统服务组件, Package Name: com.miui.securityadd
+App Name: uceShimService, Package Name: com.qualcomm.qti.uceShimService
+App Name: 配套设备管理器, Package Name: com.android.companiondevicemanager
+App Name: 相册, Package Name: com.miui.gallery
+App Name: 搜索, Package Name: com.android.quicksearchbox
+App Name: MmsService, Package Name: com.android.mms.service
+App Name: com.qualcomm.qti.qms.service.connectionsecurity, Package Name: com.qualcomm.qti.qms.service.connectionsecurity
+App Name: 下载管理程序, Package Name: com.android.providers.downloads
+App Name: com.github.uiautomator.test, Package Name: com.github.uiautomator.test
+App Name: 脉脉, Package Name: com.taou.maimai
+App Name: 米币支付, Package Name: com.xiaomi.payment
+App Name: NetworkStack, Package Name: com.android.networkstack.inprocess
+App Name: 手机管家, Package Name: com.miui.securitycenter
+App Name: Rounded, Package Name: com.android.theme.icon_pack.rounded.android
+App Name: CACertApp, Package Name: vendor.qti.hardware.cacert.server
+App Name: com.qualcomm.qti.telephonyservice, Package Name: com.qualcomm.qti.telephonyservice
+App Name: 性能模式, Package Name: com.qualcomm.qti.performancemode
+App Name: 浏览器, Package Name: com.android.browser
+App Name: 智能服务, Package Name: com.miui.systemAdSolution
+App Name: 小爱翻译, Package Name: com.xiaomi.aiasst.vision
+App Name: 小米智能卡, Package Name: com.miui.tsmclient
+App Name: Circular, Package Name: com.android.theme.icon_pack.circular.themepicker
+App Name: vendor.qti.iwlan, Package Name: vendor.qti.iwlan
+App Name: com.android.systemui.icon.overlay, Package Name: com.android.systemui.icon.overlay
+App Name: 录音机, Package Name: com.android.soundrecorder
+App Name: com.qualcomm.uimremoteserver, Package Name: com.qualcomm.uimremoteserver
+App Name: 用户手册, Package Name: com.miui.userguide
+App Name: Conference URI Dialer, Package Name: com.qti.confuridialer
+App Name: MIUI安全组件, Package Name: com.miui.guardprovider
+App Name: 下载管理, Package Name: com.android.providers.downloads.ui
+App Name: PacProcessor, Package Name: com.android.pacprocessor
+App Name: Sim App Dialog, Package Name: com.android.simappdialog
+App Name: 备份, Package Name: com.miui.backup
+App Name: com.android.settings.overlay.miui, Package Name: com.android.settings.overlay.miui
+App Name: 通知管理, Package Name: com.miui.notification
+App Name: android.overlay.common, Package Name: android.overlay.common
+App Name: MiCloudSync, Package Name: com.miui.micloudsync
+App Name: 微信, Package Name: com.tencent.mm
+App Name: 长型刘海屏, Package Name: com.android.internal.display.cutout.emulation.tall
+App Name: MiuiDaemon, Package Name: com.miui.daemon
+App Name: 电商助手, Package Name: com.xiaomi.ab
+App Name: Module Metadata, Package Name: com.android.modulemetadata
+App Name: 证书安装程序, Package Name: com.android.certinstaller
+App Name: 系统语音引擎, Package Name: com.xiaomi.mibrain.speech
+App Name: Black, Package Name: com.android.theme.color.black
+App Name: com.android.carrierconfig, Package Name: com.android.carrierconfig
+App Name: Android Accessibility Suite, Package Name: com.google.android.marvin.talkback
+App Name: Green, Package Name: com.android.theme.color.green
+App Name: Ocean, Package Name: com.android.theme.color.ocean
+App Name: Space, Package Name: com.android.theme.color.space
+App Name: WAPI证书, Package Name: com.wapi.wapicertmanage
+App Name: 3 Button Navigation Bar, Package Name: com.android.internal.systemui.navbar.threebutton
+App Name: com.qti.qualcomm.datastatusnotification, Package Name: com.qti.qualcomm.datastatusnotification
+App Name: Android 系统, Package Name: android
+App Name: com.android.systemui.notch.overlay, Package Name: com.android.systemui.notch.overlay
+App Name: 通讯录与拨号, Package Name: com.android.contacts
+App Name: CallFeatureSetting, Package Name: com.qualcomm.qti.callfeaturessetting
+App Name: Wfd Service, Package Name: com.qualcomm.wfd.service
+App Name: 快应用服务框架, Package Name: com.miui.hybrid
+App Name: android.miui.overlay, Package Name: android.miui.overlay
+App Name: MConnService, Package Name: com.miui.vsimcore
+App Name: 安全核心组件, Package Name: com.miui.securitycore
+App Name: Rounded, Package Name: com.android.theme.icon_pack.rounded.launcher
+App Name: 健康, Package Name: com.mi.health
+App Name: 设备信息, Package Name: com.qti.qualcomm.deviceinfo
+App Name: 小米文档查看器（WPS定制）, Package Name: cn.wps.moffice_eng.xiaomi.lite
+App Name: 短信, Package Name: com.android.mms
+App Name: MTP 主机, Package Name: com.android.mtp
+App Name: NFC服务, Package Name: com.android.nfc
+App Name: com.android.ons, Package Name: com.android.ons
+App Name: USIM卡应用, Package Name: com.android.stk
+App Name: com.android.backupconfirm, Package Name: com.android.backupconfirm
+App Name: 小米SIM卡激活服务, Package Name: com.xiaomi.simactivate.service
+App Name: 小米画报, Package Name: com.mfashiongallery.emag
+App Name: 指纹测试, Package Name: com.goodix.gftest
+App Name: 常用语, Package Name: com.miui.phrase
+App Name: 音乐, Package Name: com.miui.player
+App Name: 服务与反馈, Package Name: com.miui.miservice
+App Name: 2 Button Navigation Bar, Package Name: com.android.internal.systemui.navbar.twobutton
+App Name: 一甜相机, Package Name: com.kwai.m2u
+App Name: 开机引导, Package Name: com.android.provision
+App Name: org.codeaurora.ims, Package Name: org.codeaurora.ims
+App Name: Intent Filter Verification Service, Package Name: com.android.statementservice
+App Name: OsuLogin, Package Name: com.android.hotspot2
+App Name: test1, Package Name: com.example.test1
+App Name: android.overlay.target, Package Name: android.overlay.target
+App Name: BTCIT, Package Name: com.xiaomi.bttester
+App Name: com.miui.internal.app.SystemApplication, Package Name: com.miui.system
+App Name: Settings Suggestions, Package Name: com.android.settings.intelligence
+App Name: 日历, Package Name: com.android.calendar
+App Name: com.miui.translation.kingsoft, Package Name: com.miui.translation.kingsoft
+App Name: com.miui.catcherpatch.BaseApplication, Package Name: com.miui.catcherpatch
+App Name: 全球上网, Package Name: com.miui.virtualsim
+App Name: Gestural Navigation Bar, Package Name: com.android.internal.systemui.navbar.gestural_extra_wide_back
+App Name: com.miui.systemui.devices.overlay, Package Name: com.miui.systemui.devices.overlay
+App Name: 指南针, Package Name: com.miui.compass
+App Name: CIT, Package Name: com.miui.cit
+App Name: com.miui.rom, Package Name: com.miui.rom
+App Name: com.qualcomm.qcrilmsgtunnel, Package Name: com.qualcomm.qcrilmsgtunnel
+App Name: 设置存储, Package Name: com.android.providers.settings
+App Name: MiuiVpnSdkManager, Package Name: com.miui.vpnsdkmanager
+App Name: com.android.sharedstoragebackup, Package Name: com.android.sharedstoragebackup
+App Name: 融合位置服务, Package Name: com.xiaomi.location.fused
+App Name: 打印处理服务, Package Name: com.android.printspooler
+App Name: 智能助理, Package Name: com.miui.personalassistant
+App Name: 音质音效, Package Name: com.miui.misound
+App Name: System Helper Service, Package Name: com.qualcomm.qti.services.systemhelper
+App Name: Filled, Package Name: com.android.theme.icon_pack.filled.settings
+App Name: 基本互动屏保, Package Name: com.android.dreams.basic
+App Name: 电话, Package Name: com.android.incallui
+App Name: com.android.systemui.gesture.line.overlay, Package Name: com.android.systemui.gesture.line.overlay
+App Name: FIDO UAF1.0 Client, Package Name: com.fido.xiaomi.uafclient
+App Name: 用户反馈, Package Name: com.miui.bugreport
+App Name: SecureElementApplication, Package Name: com.android.se
+App Name: 输入设备, Package Name: com.android.inputdevices
+App Name: FIDO UAF1.0 ASM, Package Name: com.fido.asm
+App Name: com.miui.documentsuioverlay, Package Name: com.miui.documentsuioverlay
+App Name: com.qti.slaservice, Package Name: com.qti.slaservice
+App Name: 系统打印服务, Package Name: com.android.bips
+App Name: com.qti.dpmserviceapp, Package Name: com.qti.dpmserviceapp
+App Name: Circular, Package Name: com.android.theme.icon_pack.circular.settings
+App Name: FingerprintExtensionService, Package Name: com.fingerprints.extension.service
+App Name: 文件管理, Package Name: com.android.fileexplorer
+App Name: 吉星招财喵, Package Name: com.jixing.jxzcm.cn
+App Name: X-Divert设置, Package Name: com.qti.xdivert
+App Name: 语音唤醒, Package Name: com.miui.voicetrigger
+App Name: Mi RCS, Package Name: com.xiaomi.mircs
+App Name: com.android.systemui.overlay.miui, Package Name: com.android.systemui.overlay.miui
+App Name: com.miui.translation.youdao, Package Name: com.miui.translation.youdao
+App Name: 小米云备份, Package Name: com.miui.cloudbackup
+App Name: Android System WebView, Package Name: com.google.android.webview
+App Name: Teardrop, Package Name: com.android.theme.icon.teardrop
+App Name: Android Shared Library, Package Name: android.ext.shared
+App Name: One Time Init, Package Name: com.android.onetimeinitializer
+App Name: 钱包, Package Name: com.mipay.wallet
+App Name: 通话管理, Package Name: com.android.server.telecom
+App Name: 密钥链, Package Name: com.android.keychain
+App Name: QDCM-FF, Package Name: com.qti.snapdragon.qdcm_ff
+App Name: 相机, Package Name: com.android.camera
+App Name: Print Service Recommendation Service, Package Name: com.android.printservice.recommendation
+App Name: 小米卡包, Package Name: com.xiaomi.pass
+App Name: 小米商城, Package Name: com.xiaomi.shop
+App Name: 小米服务框架, Package Name: com.xiaomi.xmsf
+App Name: Filled, Package Name: com.android.theme.icon_pack.filled.systemui
+App Name: 小米互传, Package Name: com.miui.mishare.connectivity
+App Name: Android Services Library, Package Name: android.ext.services
+App Name: com.android.phone.overlay.common, Package Name: com.android.phone.overlay.common
+App Name: com.qualcomm.qti.qtisystemservice, Package Name: com.qualcomm.qti.qtisystemservice
+App Name: com.android.carrierconfig.overlay.common, Package Name: com.android.carrierconfig.overlay.common
+App Name: PCAPdroid, Package Name: com.emanuelef.remote_capture
+App Name: Call Log Backup/Restore, Package Name: com.android.calllogbackup
+App Name: 自由窗口, Package Name: com.miui.freeform
+App Name: android.aosp.overlay, Package Name: android.aosp.overlay
+App Name: com.android.systemui.overlay.common, Package Name: com.android.systemui.overlay.common
+App Name: Xiaomi Service Framework Keeper, Package Name: com.xiaomi.xmsfkeeper
+App Name: com.android.server.telecom.overlay.common, Package Name: com.android.server.telecom.overlay.common
+App Name: com.android.localtransport, Package Name: com.android.localtransport
+App Name: 运营商默认应用, Package Name: com.android.carrierdefaultapp
+App Name: 开发助手, Package Name: cn.trinea.android.developertools
+App Name: ANT HAL Service, Package Name: com.dsi.ant.server
+App Name: com.qualcomm.qti.remoteSimlockAuth, Package Name: com.qualcomm.qti.remoteSimlockAuth
+App Name: 查找手机, Package Name: com.xiaomi.finddevice
+App Name: com.qualcomm.qti.devicestatisticsservice, Package Name: com.qualcomm.qti.devicestatisticsservice
+App Name: Noto Serif / Source Sans Pro, Package Name: com.android.theme.font.notoserifsource
+App Name: Filled, Package Name: com.android.theme.icon_pack.filled.android
+App Name: ProxyHandler, Package Name: com.android.proxyhandler
+App Name: Joyose, Package Name: com.xiaomi.joyose
+App Name: com.qualcomm.qti.workloadclassifier, Package Name: com.qualcomm.qti.workloadclassifier
+App Name: 讯飞输入法小米版, Package Name: com.iflytek.inputmethod.miui
+App Name: Circular, Package Name: com.android.theme.icon_pack.circular.systemui
+App Name: 内容中心, Package Name: com.miui.newhome
+App Name: 小米智能卡网页组件, Package Name: com.miui.nextpay
+App Name: 笔记, Package Name: com.miui.notes
+App Name: 小米视频, Package Name: com.miui.video
+App Name: WMService, Package Name: com.miui.wmsvc
+App Name: com.qualcomm.qti.qwes.AndroidService, Package Name: com.qualcomm.qti.qwes.AndroidService
+App Name: 应用商店, Package Name: com.xiaomi.market
+App Name: 小米设置, Package Name: com.xiaomi.misettings
+App Name: Magisk, Package Name: com.topjohnwu.magisk
+App Name: com.miui.translationservice, Package Name: com.miui.translationservice
+App Name: 小米云服务, Package Name: com.miui.cloudservice
+The packagename is com.kwai.m2u
+start inject!com.kwai.m2u
+App Name: 工作设置, Package Name: com.android.managedprovisioning
+App Name: 智慧生活, Package Name: com.miui.hybrid.accessory
+App Name: Sensor Test Tool, Package Name: com.fingerprints.sensortesttool
+App Name: SoterService, Package Name: com.tencent.soter.soterserver
+App Name: 文件, Package Name: com.google.android.documentsui
+App Name: 照片屏幕保护程序, Package Name: com.android.dreams.phototable
+App Name: karaoke, Package Name: com.miui.audiomonitor
+App Name: com.miui.translation.xmcloud, Package Name: com.miui.translation.xmcloud
+App Name: 搜狗输入法小米版, Package Name: com.sohu.inputmethod.sogou.xiaomi
+App Name: 悬浮球, Package Name: com.miui.touchassistant
+App Name: MODEM测试工具, Package Name: com.xiaomi.mtb
+App Name: com.android.smspush, Package Name: com.android.smspush
+App Name: 计算器, Package Name: com.miui.calculator
+App Name: Live Wallpaper Picker, Package Name: com.android.wallpaper.livepicker
+App Name: CloudServiceSysbase, Package Name: com.miui.cloudservice.sysbase
+App Name: Tags, Package Name: com.android.apps.tag
+App Name: WallPaper, Package Name: com.miui.miwallpaper
+App Name: 小米有品, Package Name: com.xiaomi.youpin
+App Name: 小米安全键盘, Package Name: com.miui.securityinputmethod
+App Name: 游戏中心, Package Name: com.xiaomi.gamecenter
+App Name: com.android.systemui.navigation.bar.overlay, Package Name: com.android.systemui.navigation.bar.overlay
+App Name: MIUI Bluetooth, Package Name: com.xiaomi.bluetooth
+App Name: Squircle, Package Name: com.android.theme.icon.squircle
+App Name: 网络位置服务, Package Name: com.xiaomi.metoknlp
+App Name: 垃圾清理, Package Name: com.miui.cleanmaster
+App Name: 存储空间管理器, Package Name: com.android.storagemanager
+App Name: Analytics, Package Name: com.miui.analytics
+App Name: Bookmark Provider, Package Name: com.android.bookmarkprovider
+App Name: 设置, Package Name: com.android.settings
+App Name: CneApp, Package Name: com.qualcomm.qti.cne
+App Name: com.qualcomm.qti.lpa, Package Name: com.qualcomm.qti.lpa
+App Name: com.qualcomm.qti.uim, Package Name: com.qualcomm.qti.uim
+App Name: 天气, Package Name: com.miui.weather2
+App Name: Filled, Package Name: com.android.theme.icon_pack.filled.launcher
+App Name: com.android.server.NetworkPermissionConfig, Package Name: com.android.networkstack.permissionconfig
+App Name: LocationServices, Package Name: com.qualcomm.location
+load kmalloc_loader
+App Name: 小爱视觉, Package Name: com.xiaomi.scanner
+App Name: 多看, Package Name: com.duokan.reader
+App Name: com.android.cts.ctsshim, Package Name: com.android.cts.ctsshim
+App Name: 生活黄页, Package Name: com.miui.yellowpage
+App Name: 小米闻声, Package Name: com.miui.accessibility
+App Name: Circular, Package Name: com.android.theme.icon_pack.circular.launcher
+App Name: hooker, Package Name: com.zzzccc.hooker
+App Name: com.miui.systemui.carriers.overlay, Package Name: com.miui.systemui.carriers.overlay
+App Name: com.miui.systemui.overlay.devices.android, Package Name: com.miui.systemui.overlay.devices.android
+App Name: Secure UI Service, Package Name: com.qualcomm.qti.services.secureui
+App Name: com.xiaomi.bluetooth.overlay, Package Name: com.xiaomi.bluetooth.overlay
+App Name: VpnDialogs, Package Name: com.android.vpndialogs
+App Name: 电子邮件, Package Name: com.android.email
+App Name: 小爱同学, Package Name: com.miui.voiceassist
+App Name: 微博, Package Name: com.sina.weibo
+App Name: 电话服务, Package Name: com.android.phone
+App Name: Shell, Package Name: com.android.shell
+App Name: Filled, Package Name: com.android.theme.icon_pack.filled.themepicker
+App Name: com.android.wallpaperbackup, Package Name: com.android.wallpaperbackup
+App Name: 存储已屏蔽的号码, Package Name: com.android.providers.blockednumber
+App Name: 用户字典, Package Name: com.android.providers.userdictionary
+App Name: 急救信息, Package Name: com.android.emergency
+App Name: SecCamService, Package Name: com.qualcomm.qti.seccamservice
+App Name: 智能出行, Package Name: com.miui.smarttravel
+App Name: Gestural Navigation Bar, Package Name: com.android.internal.systemui.navbar.gestural
+App Name: 一体化位置信息, Package Name: com.android.location.fused
+App Name: Orchid, Package Name: com.android.theme.color.orchid
+App Name: 时钟, Package Name: com.android.deskclock
+App Name: 系统 UI, Package Name: com.android.systemui
+App Name: Purple, Package Name: com.android.theme.color.purple
+App Name: Bluetooth MIDI Service, Package Name: com.android.bluetoothmidiservice
+App Name: 关机闹钟, Package Name: com.qualcomm.qti.poweroffalarm
+App Name: LTE Broadcast Manager, Package Name: com.qti.ltebc
+App Name: 权限控制器, Package Name: com.android.permissioncontroller
+App Name: com.miui.smsextra.internal.SmsExtraApp, Package Name: com.miui.smsextra
+App Name: 主题壁纸, Package Name: com.android.thememanager
+App Name: MIUI QOL, Package Name: io.github.chsbuffer.miuihelper
+App Name: 卫星定位, Package Name: com.xiaomi.bsp.gps.nps
+after
+App Name: 系统跟踪, Package Name: com.android.traceur
+App Name: 收音机调频服务, Package Name: com.miui.fmservice
+App Name: miui.external.Application, Package Name: com.android.thememanager.module
+App Name: com.qualcomm.qti.qms.service.trustzoneaccess, Package Name: com.qualcomm.qti.qms.service.trustzoneaccess
+App Name: 权限管理服务, Package Name: com.lbe.security.miui
+App Name: FunJni, Package Name: com.zhenxi.FunJni
+App Name: 蓝牙, Package Name: com.android.bluetooth
+App Name: com.qualcomm.timeservice, Package Name: com.qualcomm.timeservice
+App Name: 驾车场景, Package Name: com.xiaomi.drivemode
+App Name: 小米云盘, Package Name: com.miui.newmidrive
+App Name: com.qualcomm.atfwd, Package Name: com.qualcomm.atfwd
+App Name: com.qualcomm.embms, Package Name: com.qualcomm.embms
+App Name: 联系人存储, Package Name: com.android.providers.contacts
+App Name: CaptivePortalLogin, Package Name: com.android.captiveportallogin
+App Name: Rounded Rectangle, Package Name: com.android.theme.icon.roundedrect
+App Name: Gestural Navigation Bar, Package Name: com.android.internal.systemui.navbar.gestural_narrow_back
+App Name: com.android.cellbroadcastreceiver.overlay.common, Package Name: com.android.cellbroadcastreceiver.overlay.common
+App Name: Rounded, Package Name: com.android.theme.icon_pack.rounded.settings
+App Name: MIUI SDK, Package Name: com.miui.core
+App Name: MiuiBiometric, Package Name: com.miui.face
+App Name: 系统桌面, Package Name: com.miui.home
+App Name: 小爱通话, Package Name: com.xiaomi.aiasst.service
+App Name: com.android.bluetooth.overlay.common, Package Name: com.android.bluetooth.overlay.common
+App Name: AudioEffect, Package Name: com.miui.audioeffect
+App Name: Circular, Package Name: com.android.theme.icon_pack.circular.android

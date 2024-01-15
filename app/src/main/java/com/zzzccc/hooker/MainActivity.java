@@ -42,22 +42,22 @@ public class MainActivity extends AppCompatActivity {
             if (ssid != null) {
                 // 注意SSID被双引号包围，如果需要可以去掉
                 ssid = ssid.substring(1, ssid.length() - 1);
-                Log.e("LSPosed","ssid is : "+ssid);
+                Log.e("LSPosed","ssid: "+ssid);
             }
             String bssid = wifiInfo.getBSSID();
             if (bssid != null){
-                Log.e("LSPosed","bssid is : "+bssid);
+                Log.e("LSPosed","bssid: "+bssid);
             }
 
             try{
                 TelephonyManager telephonyManager = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
                 if(telephonyManager.getSimState()== TelephonyManager.SIM_STATE_ABSENT){
-                    Log.e("LSPosed","SIM card is not exit!");
+                    Log.e("LSPosed","SIM card: not exit");
                 }
                 else{
                     String iccid = telephonyManager.getSimSerialNumber();
                     if(iccid!=null){
-                        Log.e("LSPosed","iccid is : "+iccid);
+                        Log.e("LSPosed","iccid: "+iccid);
                     }
                 }
             }catch (SecurityException e){
@@ -71,15 +71,24 @@ public class MainActivity extends AppCompatActivity {
                     new String[]{Manifest.permission.READ_PHONE_STATE}, REQUEST_CODE);
             // REQUEST_CODE 是你定义的整数，用于 onRequestPermissionsResult 回调
         } else {
-            // 已有权限，获取ICCID
             TelephonyManager telephonyManager = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
+            //Android+
             if (telephonyManager != null) {
+                if(Build.VERSION.SDK_INT>=Build.VERSION_CODES.Q){
+                    try{
+                        String serialNumber = Build.getSerial();
+                        Log.e("LSPosed","serialNumber: "+serialNumber);
+                    }catch (SecurityException e){
+                        Log.e("LSPosed","serialNumber: cant get");
+                        e.printStackTrace();
+                    }
+                }
                 // API 26+
-                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                else if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O && Build.VERSION.SDK_INT<=Build.VERSION_CODES.Q) {
                     String imei = telephonyManager.getImei();
                     String meid = telephonyManager.getMeid();
-                    Log.e("LSPosed","imei is "+ imei);
-                    Log.e("LSPosed","meid is "+ meid);
+                    Log.e("LSPosed","imei: "+ imei);
+                    Log.e("LSPosed","meid: "+ meid);
                     // 使用获取到的IMEI
                 } else {
                     // API 25及以下
