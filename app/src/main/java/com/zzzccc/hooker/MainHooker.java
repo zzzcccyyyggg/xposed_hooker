@@ -61,18 +61,38 @@ public class MainHooker implements IXposedHookLoadPackage {
                 }
                 //获取版本号
                 XposedBridge.log("The VERSION is : "+Build.VERSION.SDK_INT);
-                //获取imei,即序列号 需要插卡
-                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q){
-                    try{
-                        String serialNumber = Build.getSerial();
-                        XposedBridge.log("serialNumber is : "+serialNumber);
-                    }catch (SecurityException e){
-                        e.printStackTrace();
-                    }
-                }else{
-                    String imei = getDeviceIdByReflect(context);
-                    XposedBridge.log("imei is "+imei);
-                }
+
+//                //获取imei与meid即序列号 需要插卡
+//                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q){
+//                    try{
+//                        String serialNumber = Build.getSerial();
+//                        XposedBridge.log("serialNumber is : "+serialNumber);
+//                    }catch (SecurityException e){
+//                        e.printStackTrace();
+//                    }
+//                }else{
+//                    try {
+//                        TelephonyManager telephonyManager =
+//                                (TelephonyManager) context.getApplicationContext().getSystemService(Context.TELEPHONY_SERVICE);
+//                        if (telephonyManager != null) {
+//                            String imei = telephonyManager.getImei();
+//                            XposedBridge.log("imei is "+imei);
+//                        }
+//                    } catch (Throwable e) {
+//                        XposedBridge.log("Can not get imei");
+//                    }
+//                    try {
+//                        TelephonyManager telephonyManager =
+//                                (TelephonyManager) context.getApplicationContext().getSystemService(Context.TELEPHONY_SERVICE);
+//                        if (telephonyManager != null) {
+//                            String meid = telephonyManager.getMeid();
+//                            XposedBridge.log("meid is "+meid);
+//                        }
+//                    } catch (Throwable e) {
+//                        XposedBridge.log("Can not get meid");
+//                    }
+//
+//                }
 
 
                 //获取ssid,bssid,iccid
